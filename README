@@ -1,0 +1,6 @@
+This project has been taken from http://code.google.com/p/gwt-g2d 
+
+All the credit is for him.  I just mavenize the project and isolated
+from the g2d code in order to use it in a demo
+
+
